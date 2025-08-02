@@ -1,0 +1,13 @@
+#What i learned:
+
+A Security Operations Center (SOC) is a team of cyber security professionals that monitors the network and its systems to detect malicious cyber security events. Some of the main areas of interest for a SOC are:
+
+--Vulnerabilities: When ever the system is vulnerable, it is important to fix those vulnerbilities by installing proper updates and patches
+
+--Policy violations: security policy is a set of rules required to protect the network and systems. For example, it might be a policy violation if users upload confidential company data to an online storage service.
+
+--Unauthorized activity: the case where a user’s login name and password are stolen, and the attacker uses them to log into the network. A SOC must detect and block such an event as soon as possible before further damage is done.
+
+--Network intrusions: No matter how good your security is, there is always a chance for an intrusion. An intrusion can occur when a user clicks on a malicious link or when an attacker exploits a public server. Eit
+
+-- Digital Forensics and Incident Response (DFIR):
