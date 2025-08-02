@@ -1,0 +1,6 @@
+#TASK1: This is for the offensive presecurity intro:
+Offensive Security."It involves breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access. The goal is to understand hacker tactics and enhance our system defences.
+
+#TASK 2: Require me to hack a fake bank via a simulator.
+## What i learned: use the terminal and enter the command that is provided (gobuster -u http://fakebank.thm -w wordlist.txt dir)
+in the command the -u is used to scan the site and the -w is for reading the wordlist that is hidden in the website
